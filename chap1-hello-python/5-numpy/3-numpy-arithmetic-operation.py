@@ -7,3 +7,5 @@ print(x + y)
 print(x - y)
 print(x * y)
 print(x / y)
+
+print(x / 2.0)

@@ -17,6 +17,9 @@ def img_show(img):
 
 img = x_train[0]
 label = t_train[0]
+
+# image matrix
+# print(img)
 print(label)  # 5
 
 print(img.shape)  # (784,)
